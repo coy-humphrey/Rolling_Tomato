@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tomato_color">#ffff1906</color>
+    <color name="plate_color">#ff5472ff</color>
+    <color name="drain_color">#6f000000</color>
+</resources>
